@@ -102,7 +102,7 @@ cvlab-mini-app/
 
 ## 👩‍💻 Author
 
-**<Bushra irshad>**
+Bushra irshad
 
 ## 📄 License
 
